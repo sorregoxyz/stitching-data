@@ -1,0 +1,46 @@
+# STITCHING DATA
+### Experimental Ethnography, Data Visualization, and Textile Practices
+
+## About
+
+Stitching data is a personal exploration of how to do ethnography with textiles and how to visualize ethnography through textiles. Fro this project, I am bringing experimental ethnography, data visualization, and textile practices into conversation.
+
+The project has two closely connected ambitions: 1. to develop practical knowledge of textile materials and techniques, and 2. to investigate how textile practices might become instruments for producing, organizing, interpreting, and communicating ethnographic knowledge.
+
+This involves learning **how textiles are made**: understanding fibers, yarns, tools, knots, loops, stitches, patterns, structures, textures, colors, and material behaviors. It also involves **experimenting with how these material operations might engage with information**: how observations, encounters, measurements, relationships, temporal sequences, and other forms of empirical material can be translated into textile structures. Although I will be learning about materialities of textiles, operatively speaking, I am starting with crochet.
+
+I envision this project working in both directions. The idea of learning textil-making goes beyond that adquiring a new way of illustrating information already collected. At the same time, data visualizationis treated as a practice that influence what we observe, record, measure, and consider relevant during fieldwork. So, this way, textile practices can become ways of thinking, experimenting, and generating new questions. Making a textile object can reveal patterns, relationships, differences, and absences that were not apparent before.
+
+Stitching Data is therefore both a personal space for learning textile practices and a space for methodological experimentation. In other words, I am deeply interested in what textiles can represent and also how they can help  to expand and improve my ethographic practice.
+
+## Research Premise
+
+### Experimental ethnography, data visualization, and textile practices
+
+The project develops around three interconnected areas of exploration.
+
+**1. Textile practices and material literacy**
+
+Textile practices are forms of material knowledge that involve tools, gestures, techniques, structures, and situated forms of learning (Pérez-Bustos, XXX). Understanding them requires more than knowing how to reproduce a pattern. It involves developing an embodied understanding of materials and their behavior through experimentation.
+
+The project investigates different fibers, yarns, threads, tools, and techniques, paying attention to how variations in material, scale, tension, and movement produce different textile structures.
+
+This includes learning and experimenting with knots, loops, stitches, crochet, knitting, weaving, and other textile operations; understanding the relationship between tools and materials; and investigating properties such as density, elasticity, porosity, flexibility, weight, texture, and durability.
+
+Learning is approached as an experimental process: making, observing, comparing, unmaking, and making again. It will be detailed documented using this GitHub repository as the project's main knowledge base.
+
+**2. Experimental ethnography and data visualization**
+
+Experimental ethnography provides an orientation toward methodological invention (Reference). Rather than treating research methods as fixed instruments, it encourages the development of practices capable of responding to particular research questions, encounters, and situations ```(Expand)```.
+
+Data visualization is central to this approach. My interest in textile practices is to adquire new methodologies for experimenting with data visualization (DV). I understadand DV as a way of thinking and working with empirical material throughout the research process, and approach that sees them beyond exclusively being means of presenting research findings after fieldwork.
+
+An imagined visualization can anticipate research possibilities and orient attention in the field (Orrego, forthcoming). Its categories, structures, and visual relationships can influence what is observed, recorded, measured, and considered relevant. Empirical encounters can subsequently challenge and transform the visualization, generating new questions and potentially changing the research protocol itself.
+
+This reciprocal relationship is particularly important to the project. Visualization can help organize inquiry before and during fieldwork, while fieldwork can transform the structures through which information is organized and interpreted.
+
+Textile practices introduce another material and visual environment into this process. They offer ways to organize, differentiate, connect, accumulate, repeat, and transform information through tangible structures.
+
+**3. Textile knowledge and methodological conversations**
+
+Being constructed.
