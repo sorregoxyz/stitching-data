@@ -1,6 +1,8 @@
 # STITCHING DATA
 ### Experimental Ethnography, Data Visualization, and Textile Practices
 
+```This is a learning path structure that is being planned as it is being written. What is in this repository should be read as a personal, practical exploration of textile literacy to create data visualizations and incorporate textile practices into ethnography.```
+
 ## About
 
 Stitching data is a personal exploration of how to do ethnography with textiles and how to visualize ethnography through textiles. Fro this project, I am bringing experimental ethnography, data visualization, and textile practices into conversation.
@@ -46,3 +48,33 @@ It draws particularly on Tania Pérez-Bustos's work on [textile practices as for
 These interlocutors offer different perspectives rather than a single unified theoretical framework. Their work helps situate the project within existing conversations about materiality, embodiment, situated knowledge, making, and ethnographic representation. Additionally, I will be interacting, learning, and being inspired by the work of people all around the world that publishes their projects and processes online. 
 
 The project seeks to extend these conversations by examining the relationship between textile practices and data visualization, particularly the possibility of developing textile structures as instruments for ethnographic inquiry.
+
+## The Research Program
+
+The project is organized into six interconnected laboratories. They provide a structure for learning and experimentation, but they are not intended as strictly sequential stages. Discoveries in one area may generate new questions and learning needs in another.
+
+### 1. Textile Literacy and Material Practices
+Learning the material language of textile making.
+
+This is about gaining practical knowledge of textile materials, tools, techniques, and operations.
+
+Areas of exploration include:
+
+- Fibers, yarns, threads, and material properties.
+- Hooks, needles, looms, and other tools.
+- Knots, loops, chains, and stitches.
+- Crochet, knitting, weaving, and related techniques.
+- Patterns, notation, diagrams, and textile instructions.
+- Tension, gauge, density, elasticity, and drape.
+- Texture, repetition, rhythm, and movement.
+- Joining, increasing, decreasing, repairing, and unraveling.
+
+**outcome**: A growing Textile Literacy Atlas documenting materials, tools, techniques, stitches, and material experiments.
+
+### 2. Textile Geometries and Structures
+Investigating how textile structures are organized.
+
+### 3. Color, Texture, and Material Coding
+### 4. Data Visualization and Textile Translation
+### 5. Experimental Textile Ethnography
+### 6. Documentation, Archiving, and Publication
