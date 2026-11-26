@@ -74,6 +74,12 @@ Areas of exploration include:
 ### 2. Textile Geometries and Structures
 Investigating how textile structures are organized.
 
+This laboratory explores the geometrical and structural properties of textile making, including repetition, sequence, grids, networks, modularity, symmetry, density, porosity, and connectivity.
+
+It examines how individual operations generate larger structures and how variations in those operations affect the resulting fabric. It also explores possible relationships between textile structures and other organizational systems, such as spatial networks, social relations, temporal sequences, and information architectures.
+
+**outcome:** A Structural Atlas documenting textile geometries, patterns, and organizational principles.
+
 ### 3. Color, Texture, and Material Coding
 ### 4. Data Visualization and Textile Translation
 ### 5. Experimental Textile Ethnography
